@@ -1,0 +1,41 @@
+1  git config --list
+    2  ls
+    3  cd
+    4  cd/d
+    5  cd/d
+    6  d:
+    7  c
+    8  clear
+    9  d:
+   10  d:
+   11  pwd
+   12  cd /d
+   13  cd Sourcecode/
+   14  ls
+   15  touch task.txt
+   16  ls
+   17  vim task.txt
+   18  cat task.txt
+   19  clear
+   20  git status
+   21  git add task.txt
+   22  git status
+   23  git commit -m "File is uploaded for practical knowledge"
+   24  git push
+   25  git staus
+   26  clear
+   27  git status
+   28  history
+   29  cd /d
+   30  mkdir GitLifecycle
+   31  ls
+   32  clear
+   33  ls
+   34  cd GitLifecycle/
+   35  touch gitrepo.txt
+   36  ls
+   37  vim gitrepo.txt
+   38  clear
+   39  ls
+
+
